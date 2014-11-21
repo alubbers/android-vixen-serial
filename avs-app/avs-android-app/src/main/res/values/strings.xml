@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Vixen Player</string>
+
+
+    <string name="mainMenu_load">Load File</string>
+
+    <string name="id_label">My ID is</string>
+    <string name="id_value">[id]</string>
+    <string name="content_label">Content is</string>
+    <string name="content_value">[content]</string>
+    <string name="action_refresh">Refresh</string>
+
+</resources>

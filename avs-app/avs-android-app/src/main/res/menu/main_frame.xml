@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".RootFrame" >
+
+    <item android:id="@+id/mainMenu_load"
+        android:title="@string/mainMenu_load"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>
